@@ -1,0 +1,40 @@
+
+#block2{
+    height: 500px;
+}
+#block3{
+    height: 500px;
+}
+#block1{
+    height: 500px;
+}
+/* <div  >
+<h1>WELCOME</h1>
+<Carousel>
+<Carousel.Item>
+<img
+id="block2"
+ className="d-block w-100"
+ src={img2}
+ alt="First slide"
+/>
+</Carousel.Item>
+<Carousel.Item>
+<img
+id="block3"
+ className="d-block w-100"
+ src={img3}
+ alt="Third slide"
+/>
+
+
+</Carousel.Item>
+<Carousel.Item>
+<img id="block1"
+ className="d-block w-100"
+ src={img4}
+ alt="Third slide"
+/>
+</Carousel.Item>
+</Carousel>
+</div> */
